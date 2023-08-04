@@ -161,4 +161,6 @@ cython_debug/
 
 /datasets
 /images
+/my_cifar10_logs
+/my_cifar10_model.h5
 
